@@ -1,0 +1,1 @@
+document.body.innerHTML='<h1>Hello from Java Scriptgit st</h1>'
